@@ -1,0 +1,31 @@
+body {
+    background-color: #e75b5b;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; 
+}
+.container {
+    background-color: #8a8181;
+    color: #333333;
+    padding: 20px;
+}
+h1, h2 {
+    font-family: 'Times', Arial, sans-serif;
+}
+section {
+    border: 1px solid #570000;
+    border-radius: 10px;
+    padding: 10px;
+}
+.python:hover {
+    color: #ff0000;
+background-color: #cccccc;
+}
+.c:hover {
+    color: #47a149;
+background-color: #cccccc;
+}
+.Html:hover {
+    color: #41387d;
+background-color: #cccccc;
+}
